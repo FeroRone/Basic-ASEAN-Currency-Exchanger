@@ -66,9 +66,11 @@ See you later Fero!
 ---
 ### File Structure
 Basic-ASEAN-Currency-Exchanger/
+
 ├── main.cpp      # Main C++ source file with exchange logic
 
 └── README.md     # Project documentation (this file)
+
 ---
 ### Author
 FeroRone
